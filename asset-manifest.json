@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b404b109.css",
+    "main.js": "/static/js/main.499cc97c.js",
+    "static/media/FixelDisplay-Medium.ttf": "/static/media/FixelDisplay-Medium.2bf73c318b39b6747802.ttf",
+    "static/media/FixelDisplay-SemiBold.ttf": "/static/media/FixelDisplay-SemiBold.5a60f17e88fec6794428.ttf",
+    "static/media/FixelDisplay-Bold.ttf": "/static/media/FixelDisplay-Bold.42570372d1fc688bdc82.ttf",
+    "static/media/FixelDisplay-ExtraBold.ttf": "/static/media/FixelDisplay-ExtraBold.c503302437d53c53c793.ttf",
+    "static/media/FixelDisplay-Black.ttf": "/static/media/FixelDisplay-Black.99a8f75fd775543866e3.ttf",
+    "static/media/FixelDisplay-Light.ttf": "/static/media/FixelDisplay-Light.45ff4bc92678c2b755ae.ttf",
+    "static/media/FixelDisplay-ExtraLight.ttf": "/static/media/FixelDisplay-ExtraLight.4feff72050c31505862c.ttf",
+    "static/media/FixelDisplay-Regular.ttf": "/static/media/FixelDisplay-Regular.885dc0e15ca46cc1f777.ttf",
+    "static/media/FixelDisplay-Thin.ttf": "/static/media/FixelDisplay-Thin.07cea8dc524ca361d068.ttf",
+    "index.html": "/index.html",
+    "main.b404b109.css.map": "/static/css/main.b404b109.css.map",
+    "main.499cc97c.js.map": "/static/js/main.499cc97c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b404b109.css",
+    "static/js/main.499cc97c.js"
+  ]
+}
